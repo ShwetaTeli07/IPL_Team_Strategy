@@ -31,7 +31,9 @@ Excel → Pivot tables, charts, and dashboards
 File	Description
 
 SQL_IPL Analysis.docx	SQL queries & answers (objective and subjective)
+
 SQL_IPL Analysis.pptx	Presentation with schema, insights, visuals, and recommendations
+
 SQL_Query.sql	SQL script file with all queries used in the analysis
 
 🎯 Purpose
