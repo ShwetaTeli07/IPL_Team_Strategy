@@ -1,4 +1,4 @@
- IPL Data Analysis – SQL & Excel Project
+IPL Data Analysis – SQL & Excel Project
 Overview
 
 This project analyzes Indian Premier League (IPL) data using SQL and Excel visualizations, with a focus on Royal Challengers Bangalore (RCB). The goal is to uncover insights on player performance, team consistency, venue impact, and strategies to guide RCB toward building a title-winning squad.
